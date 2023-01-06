@@ -62,3 +62,19 @@ nav li {
   background-repeat: no-repeat;
   background-position: bottom right, left;
 }
+/*main section*/
+main {
+  max-width: 1140px;
+  background-color: #fff8f3;
+  margin: 0 auto;
+}
+/*about section*/
+.about {
+  margin-top: 103px;
+  background: #fff8f3;
+  border-radius: 10px;
+}
+.article-head {
+}
+.article {
+}
