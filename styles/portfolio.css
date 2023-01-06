@@ -196,9 +196,7 @@ main {
 .contact .section-description {
   margin-bottom: 30px;
 }
-.contact a {
-  text-decoration: none;
-}
+
 .contact input,
 textarea {
   margin-bottom: 24px;
