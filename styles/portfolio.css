@@ -183,3 +183,29 @@ main {
   margin-top: 50px;
   text-align: center;
 }
+/* section styles */
+.contact .section-title {
+  text-align: left;
+}
+.contact {
+  display: flex;
+  gap: 117px;
+  background: #fff8f3;
+  padding: 130px 230px;
+}
+.contact .section-description {
+  margin-bottom: 30px;
+}
+.contact a {
+  text-decoration: none;
+}
+.contact input,
+textarea {
+  margin-bottom: 24px;
+  border: 0;
+  width: 100%;
+  padding: 18px 30px;
+}
+.contact input {
+  height: 30px;
+}
